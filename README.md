@@ -1,6 +1,6 @@
 # This is my first website
 
-Welcome!
+Welcome! here is a link to my site: https://novicetheaf.github.io/myFullTemplate/
 
 ## This is a h2
 
